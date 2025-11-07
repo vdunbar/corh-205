@@ -1,0 +1,18 @@
+cite {
+  font-size: 50%;
+  display: inline-block;
+}
+
+img {
+  display: block;
+  margin: auto !important;
+}
+
+.leaflet {
+  width: 1200px !important;
+  height: 700px !important;
+}
+
+code {
+  overflow: inherit !important;
+}

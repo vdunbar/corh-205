@@ -2,7 +2,7 @@
 title: "Data Visualization"
 subtitle: "CORH 205"
 author: Mathew Vis-Dunbar, Data Librarian
-date: 2025-11-05
+date: 2026-03-12
 format:
   revealjs:
     css: styles.css
